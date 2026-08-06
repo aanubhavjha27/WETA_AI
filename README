@@ -1,9 +1,24 @@
 # DevGraph — Developer Network Explorer
 
 A graph database application for exploring developers, their skills, repositories, organizations, and collaboration networks — built on **CognoDB** (openCypher over Bolt).
+## Screenshots
 
-**Live demo:** _[add hosted link here]_
-**Screen recording:** _[add link here]_
+### Developer List
+![Developer List](./assets/1.jpg)
+
+### Developer Profile
+![Developer Profile](./assets/2.jpg)
+
+### Network Graph
+![Network Graph](./assets/4.jpg)
+
+### Recommended Collaborators
+![Recommendations](./assets/3.jpg)
+
+## Demo
+
+- **Screen recording:** 
+[Demo](./assets/wetaai-2026-08-06_11.19.07.mp4)
 
 ---
 
