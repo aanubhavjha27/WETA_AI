@@ -18,7 +18,7 @@ A graph database application for exploring developers, their skills, repositorie
 ## Demo
 
 - **Screen recording:** 
-[Demo](./assets/wetaai-2026-08-06_11.19.07.mp4)
+[Demo](./assets/wetaai-2026-08-06_11.19.07.mp4)(https://drive.google.com/file/d/1YBqLT04PDKkyMiB5zpNPIzR5iNc1PyOd/view?usp=sharing)
 
 ---
 
